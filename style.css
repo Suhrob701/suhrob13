@@ -1,0 +1,79 @@
+.suhrob{
+   border: 5px solid red;
+   border-radius: 50px;
+   text-align: center;
+   background-color: rgb(150, 150, 179);
+}
+.hayri{
+    color: red;
+}
+.jovoh{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.hu{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+.di{
+    text-align: center;
+    font-size: 400px;x
+}
+.he{
+    text-align: center;
+}
+    .she{
+        color: green;
+    }
+    .fu{
+        width: 1200px;
+        height: 45px;
+    }
+    .mers{
+        color: green;
+    }
+    .uh{
+        width: 280px;
+        height: 40px;
+        background-color: rgb(121, 121, 161);
+    }
+    .timur{
+        text-align: center;
+        left: 50%;
+    }
+    .di{
+        justify-content: center;
+        display: flex;
+    }
+    .you{
+    border: 2px solid black;
+    width: 350px;
+    background-color: red;
+    color: white;
+    }
+    .th{
+        border: 2px solid black;
+        width: 350px;
+        background-color: green;
+        color: white;
+    }
+    .tr{
+        border: 2px solid black;
+        width: 700px;
+        background-color: blue; 
+        text-align: center;
+        color: white;
+    }
+    .tu{
+        border: 2px solid black;
+        width: 700px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        
+    }
+    .uni{
+        color: green;
+    }
